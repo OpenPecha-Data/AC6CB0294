@@ -1,0 +1,16 @@
+id: AC6CB0294
+title: Drāmiḍāvidyārājā
+type: translation
+pechas:
+- I6148C055
+- I75623BCA
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-02-08 15:04:24.693056
+  last_modified_at: 2023-02-08 15:04:24.693069
+alignment_to_base:
+  I6148C055/28D5: ABB7
+  I75623BCA/6A8F: ABB7
